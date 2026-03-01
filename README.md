@@ -34,7 +34,7 @@ We build in public. Explore our code, learn from it, contribute to it.
 
 ### Who We Are
 
-**Shirin Khosravi Jam** — Sr. Data Scientist & AI Engineer · 8+ years in production AI/ML · AI Agents, RAG, NLP, MLOps · [LinkedIn](https://www.linkedin.com/in/shirin-khosravi-jam/)
+**Shirin Khosravi Jam** — Sr. Data Scientist & AI Engineer · 8+ years in production AI/ML · AI Agents, RAG, RecSys, Data Science, Customer Analytics, Marketing Modeling, Reinforcement Learning, MLOps · [LinkedIn](https://www.linkedin.com/in/shirin-khosravi-jam/)
 
 **Shantanu Ladhwe** — Head of AI/ML · 10+ years building & leading AI/ML teams · Search, RecSys, RAG, AI Agents, MLOps · [LinkedIn](https://www.linkedin.com/in/shantanuladhwe/)
 
