@@ -25,8 +25,8 @@ No toy demos. No notebook-only tutorials. Real systems with real architectures.
 
 | Repository | Stars | Forks |
 |---|---|---|
-| [production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) — Production-grade agentic RAG with Airflow, LangGraph, vector search, monitoring & more | ⭐ 3.1k | 🍴 845 |
-| [beginner-local-rag-system](https://github.com/jamwithai/beginner-local-rag-system) — Beginner-friendly local RAG system for getting started with retrieval-augmented generation | ⭐ 315 | 🍴 134 |
+| [production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) — Production-grade agentic RAG with Airflow, LangGraph, vector search, monitoring & more | ⭐ 5.6k+ |
+| [beginner-local-rag-system](https://github.com/jamwithai/beginner-local-rag-system) — Beginner-friendly local RAG system for getting started with retrieval-augmented generation | ⭐ 300+ | 
 
 We build in public. Explore our code, learn from it, contribute to it.
 
